@@ -2,7 +2,7 @@
 
 Calculadora de IMC com gráfico
 
-![Alt text](/relative/danielfranco16/calculadora_imc_flutter/Tela-app-Calculadora-IMC.png raw=true "TELA APLICATIVO")
+![Alt text](https://github.com/danielfranco16/calculadora_imc_flutter//Tela-app-Calculadora-IMC.png raw=true "TELA APLICATIVO")
 
 ## Getting Started
 
