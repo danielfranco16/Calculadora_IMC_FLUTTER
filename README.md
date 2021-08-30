@@ -2,6 +2,8 @@
 
 Calculadora de IMC com gráfico
 
+![Alt text](/relative/danielfranco16/calculadora_imc_flutter/Tela-app-Calculadora-IMC.png raw=true "TELA APLICATIVO")
+
 ## Getting Started
 
 ATV01 - Aplicativo Modelo IMC/ ou outro
@@ -19,3 +21,5 @@ ATV01 - Aplicativo Modelo IMC/ ou outro
 • Use o máximo da sua criatividade! Ela também será avaliada.
 
 • Faça o tratamento de erros necessários..
+
+
