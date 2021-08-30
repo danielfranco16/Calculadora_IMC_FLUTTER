@@ -4,13 +4,18 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ATV01 - Aplicativo Modelo IMC/ ou outro
 
-A few resources to get you started if this is your first Flutter project:
+• Desenvolver uma calculadora para apresentar o IMC/ou outro com os dados inseridos pela pessoa como peso e altura.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+• O aplicativo deverá estar com funcionamento correto e completo.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• Aplicar o máximo de propriedades que demonstre seu aprendizado.
+
+• Apresente a tabela de Classificação (Abaixo do peso, peso ideal, sobrepeso, etc).
+
+• Caso o estudante opte por desenvolver um aplicativo com outra temática, aplique os conceitos trabalhados até o momento e apresente todas as informações necessárias referente ao tema específico.
+
+• Use o máximo da sua criatividade! Ela também será avaliada.
+
+• Faça o tratamento de erros necessários..
